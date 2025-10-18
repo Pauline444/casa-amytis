@@ -13,7 +13,7 @@ export default function Contact() {
             </p>
             <div className="d-flex justify-content-center gap-4 fs-3">
                 <a
-                    href="https://facebook.com"
+                    href="https://www.facebook.com/casaamytiz"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-dark"
@@ -21,7 +21,7 @@ export default function Contact() {
                     <FaFacebook />
                 </a>
                 <a
-                    href="https://instagram.com"
+                    href="https://www.instagram.com/casaamytis/"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-dark"

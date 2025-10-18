@@ -38,7 +38,7 @@ export default function WelcomeAnimation() {
             {welcomes.map((w) => (
                 <span
                     key={w.id}
-                    className={`position-absolute fw-bold fade-text ${w.text.className}`}
+                    className={`position-absolute w-text fade-text ${w.text.className}`}
                     style={{
                         left: `${w.x}%`,
                         top: `${w.y}%`,

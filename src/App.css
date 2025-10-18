@@ -47,18 +47,6 @@
   }
 }
 
-.main-card {
-  min-width: 80vw;
-  margin: 10px;
-  border-radius: 30px;
-  background-color: #84b7b0;
-  padding: 1.5rem;
-}
-
-.card {
-  padding: 2em;
-}
-
 @keyframes fadeInOut {
   0% {
     opacity: 0;
@@ -85,4 +73,8 @@
   animation: fadeInOut 2.5s ease-in-out forwards;
   user-select: none;
   pointer-events: none;
+}
+
+.w-text {
+  color: #6c4971;
 }
